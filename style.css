@@ -1,0 +1,31 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    padding: 0px;
+    margin: 0px;
+    background-color: whitesmoke;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    
+}
+
+p {
+
+}
+
+a {
+
+}
+
+a:hover {
+
+}
+
+span {
+
+}
+
+.main {
+    height: 1000px;
+    width: 100%;
+}
